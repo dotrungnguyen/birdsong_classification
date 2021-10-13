@@ -1,0 +1,11 @@
+categories,symbol,describe
+Extinct,(EX),No known living individuals
+Extinct in the wild,(EW),"Known only to survive in captivity, or as a naturalized population outside its historic range"
+Critically endangered,(CR),Extremely high risk of extinction in the wild
+Endangered,(EN),High risk of extinction in the wild
+Vulnerable,(VU),High risk of endangerment in the wild
+Near threatened,(NT),Likely to become endangered in the near future
+Conservation Dependent,(CD),"Low risk; is conserved to prevent being near threatened, certain events may lead it to being a higher risk level"
+Least Concern,(LC),Lowest risk; does not qualify for a higher risk category. Widespread and abundant taxa are included in this category.
+Data Deficient,(DD), Not enough data to make an assessment of its risk of extinction
+Not Evaluated,(NE),Has not yet been evaluated against the criteria
