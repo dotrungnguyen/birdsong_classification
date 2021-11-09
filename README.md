@@ -11,8 +11,4 @@ dataset: https://www.kaggle.com/monogenea/birdsongs-from-europe?select=mp3
 - https://streamlit.io/
 
 ## preview
-![img_1](/preview_image/2.png "...")
-![img_1](/preview_image/3.png "...") 
-![img_1](/preview_image/4.png "...") 
-![img_1](/preview_image/5.png "...") 
 ![img_1](/preview_image/6.png "...")
